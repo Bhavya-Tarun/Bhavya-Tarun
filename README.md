@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Bhavya-Tarun
 - 👀 I’m interested in coding, writing.
 - 🌱 I’m currently learning german, karate and ukulele.
+- I also just love baking and singing!
+- I am pretty good at Badminton(got 2nd place in the camp) and Skipping(got 1st prize in the tournament!
+-
 
 <!---
 Bhavya-Tarun/Bhavya-Tarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
